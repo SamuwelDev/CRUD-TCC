@@ -15,6 +15,7 @@ public class HotelDTO {
     private String description;
     private long averageDaily;
 //Teste
+//Teste2
 
     public long getId() {
         return id;
